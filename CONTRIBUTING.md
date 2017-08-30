@@ -1,4 +1,4 @@
-# Contributing to ecommerce_bootstrap_theme
+# Contributing to ecommerce boostrap theme
 
 Please read the
 [generic write up for contributing](https://docs.silverstripe.org/en/4.0/contributing/)

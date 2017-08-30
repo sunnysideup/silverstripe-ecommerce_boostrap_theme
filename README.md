@@ -1,12 +1,12 @@
-# Silverstripe ecommerce_bootstrap_theme module
-[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-ecommerce_bootstrap_theme.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-ecommerce_bootstrap_theme)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-ecommerce_bootstrap_theme/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-ecommerce_bootstrap_theme/?branch=master)
-[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-ecommerce_bootstrap_theme/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-ecommerce_bootstrap_theme?branch=master)
-![helpfulrobot](https://helpfulrobot.io/sunnysideup/ecommerce_bootstrap_theme/badge)
+# Silverstripe ecommerce boostrap theme module
+[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-ecommerce_boostrap_theme.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-ecommerce_boostrap_theme)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-ecommerce_boostrap_theme/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-ecommerce_boostrap_theme/?branch=master)
+[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-ecommerce_boostrap_theme/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-ecommerce_boostrap_theme?branch=master)
+![helpfulrobot](https://helpfulrobot.io/sunnysideup/ecommerce_boostrap_theme/badge)
 
-[![Latest Stable Version](https://poser.pugx.org/sunnysideup/ecommerce_bootstrap_theme/version)](https://packagist.org/packages/sunnysideup/ecommerce_bootstrap_theme)
-[![License](https://poser.pugx.org/sunnysideup/ecommerce_bootstrap_theme/license)](https://packagist.org/packages/sunnysideup/ecommerce_bootstrap_theme)
-[![Monthly Downloads](https://poser.pugx.org/sunnysideup/ecommerce_bootstrap_theme/d/monthly)](https://packagist.org/packages/sunnysideup/ecommerce_bootstrap_theme)
+[![Latest Stable Version](https://poser.pugx.org/sunnysideup/ecommerce_boostrap_theme/version)](https://packagist.org/packages/sunnysideup/ecommerce_boostrap_theme)
+[![License](https://poser.pugx.org/sunnysideup/ecommerce_boostrap_theme/license)](https://packagist.org/packages/sunnysideup/ecommerce_boostrap_theme)
+[![Monthly Downloads](https://poser.pugx.org/sunnysideup/ecommerce_boostrap_theme/d/monthly)](https://packagist.org/packages/sunnysideup/ecommerce_boostrap_theme)
 
 
 ## Documentation
@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/ecommerce_bootstrap_theme/classes.xhtml)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/ecommerce_boostrap_theme/classes.xhtml)
 
 ## Requirements
 
@@ -34,19 +34,19 @@ see [composer.json](composer.json) for details
 
 
 ```
-composer require sunnysideup/ecommerce_bootstrap_theme
+composer require sunnysideup/ecommerce_boostrap_theme
 ```
 
 ### Configuration
 
 
 
-In the `_config` folder you will find the `ecommerce_bootstrap_theme.yml.example`
+In the `_config` folder you will find the `ecommerce_boostrap_theme.yml.example`
 file that shows options for the configuration of this module.
 
 We recommend that you:
 
-  1. copy these `ecommerce_bootstrap_theme.yml.example` files into your
+  1. copy these `ecommerce_boostrap_theme.yml.example` files into your
 `mysite/_config` folder
   2. remove the .example extension
   3. delete the lines you not care about, and
