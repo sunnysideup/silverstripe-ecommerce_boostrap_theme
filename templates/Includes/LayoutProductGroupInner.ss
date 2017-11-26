@@ -3,11 +3,9 @@
 <% if Content %><div id="ContentHolder">$Content</div><% end_if %>
 
 <div class="filterSortDisplayAndSearch">
-<% include ProductGroupFilterSortSearchHeaders %>
 <% include ProductGroupDisplayOptions %>
 <% include ProductGroupFilterOptions %>
 <% include ProductGroupChildGroups %>
-<% include ProductGroupSearchForm %>
 </div>
 
 <% if $Products %>
