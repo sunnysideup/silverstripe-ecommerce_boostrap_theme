@@ -1,4 +1,4 @@
-# Silverstripe ecommerce boostrap theme module
+# Silverstripe ecommerce bootstrap theme module
 [![Build Status](https://travis-ci.org/sunnysideup/silverstripe-ecommerce_boostrap_theme.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-ecommerce_boostrap_theme)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-ecommerce_boostrap_theme/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-ecommerce_boostrap_theme/?branch=master)
 [![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-ecommerce_boostrap_theme/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-ecommerce_boostrap_theme?branch=master)
